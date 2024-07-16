@@ -48,15 +48,6 @@ Para o protótipo ser utilizado "LOCALSTORAGE"
 - BRMODELO
 - Astha UML
 
-
-  # Imagens do projeto
-
-
-
-
-  
-   
-
 # Autores 
 
 Gabriel Cassiano Carvalho Lara , Henrique Gianichini Rysdyk , Filipe Gabriel Figueredo Machado.
